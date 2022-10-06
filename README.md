@@ -17,12 +17,12 @@ The SDRPi Firmware is built with the [Xilinx Vivado 2019.1](https://www.xilinx.c
 ### Install build requirements
 
 ```bash
-sudo apt-get install git build-essential fakeroot libncurses5-dev libssl-dev ccache 
-sudo apt-get install dfu-util u-boot-tools device-tree-compiler mtools
-sudo apt-get install bc python cpio zip unzip rsync file wget 
-sudo apt-get install libtinfo5 device-tree-compiler bison flex u-boot-tools
-sudo apt-get purge gcc-arm-linux-gnueabihf
-sudo apt-get remove libfdt-de
+sudo apt-get install git build-essential fakeroot libncurses5-dev libssl-dev ccache -y 
+sudo apt-get install dfu-util u-boot-tools device-tree-compiler mtools -y 
+sudo apt-get install bc python cpio zip unzip rsync file wget  -y 
+sudo apt-get install libtinfo5 device-tree-compiler bison flex u-boot-tools -y 
+sudo apt-get purge gcc-arm-linux-gnueabihf -y 
+sudo apt-get remove libfdt-de -y 
 ```
 
 ### Get source code and setup bash
