@@ -6,7 +6,8 @@ This project is forked from ADI [ADALM-PLUTO ](https://github.com/analogdevicesi
 ## Purchase Link
 For Chinese users: [SDRPi 淘宝链接](https://item.taobao.com/item.htm?id=647986963313#detail)
 
-For Foreign users :Comming soon .
+For Foreign users : [SDRPi in Aliexpress]([https://item.taobao.com/item.htm?id=647986963313#detail](https://www.aliexpress.com/item/1005004830016639.html?spm=5261.ProductManageOnline.0.0.b10c4edfN21jfB))
+
 
  
 
